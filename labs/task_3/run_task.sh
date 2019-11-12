@@ -18,7 +18,7 @@ THIS_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
 source $THIS_DIR/../env.sh
 
-P4C_BM_SCRIPT=/usr/local/bin/p4c
+P4C_BM_SCRIPT=/usr/local/bin/p4c/build/p4c
 
 SWITCH_PATH=/usr/local/bin/simple_switch
 
